@@ -78,7 +78,7 @@ export default function ManifestationApp() {
       <div className="manifestation-card">
         {showForm ? (
           <div className="form-container">
-            <h2 className="section-title">Say it Loud! Say is Proud!</h2>
+            <h2 className="section-title">Say it Loud! Say it Proud!</h2>
             <p className="section-action">
               {' '}
               "Your thoughts become things, so choose the good ones.
